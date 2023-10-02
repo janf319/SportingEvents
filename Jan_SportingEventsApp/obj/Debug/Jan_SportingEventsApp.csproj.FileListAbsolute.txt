@@ -1,0 +1,12 @@
+C:\Users\Fatima\source\repos\Jan_SportingEventsApp\bin\Debug\Jan_SportingEventsApp.exe.config
+C:\Users\Fatima\source\repos\Jan_SportingEventsApp\bin\Debug\Jan_SportingEventsApp.exe
+C:\Users\Fatima\source\repos\Jan_SportingEventsApp\bin\Debug\Jan_SportingEventsApp.pdb
+C:\Users\Fatima\source\repos\Jan_SportingEventsApp\obj\Debug\Jan_SportingEventsApp.csproj.AssemblyReference.cache
+C:\Users\Fatima\source\repos\Jan_SportingEventsApp\obj\Debug\Jan_SportingEventsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fatima\source\repos\Jan_SportingEventsApp\obj\Debug\Jan_SportingEventsApp.Form1.resources
+C:\Users\Fatima\source\repos\Jan_SportingEventsApp\obj\Debug\Jan_SportingEventsApp.Properties.Resources.resources
+C:\Users\Fatima\source\repos\Jan_SportingEventsApp\obj\Debug\Jan_SportingEventsApp.csproj.GenerateResource.cache
+C:\Users\Fatima\source\repos\Jan_SportingEventsApp\obj\Debug\Jan_SportingEventsApp.csproj.CoreCompileInputs.cache
+C:\Users\Fatima\source\repos\Jan_SportingEventsApp\obj\Debug\Jan_SportingEventsApp.exe
+C:\Users\Fatima\source\repos\Jan_SportingEventsApp\obj\Debug\Jan_SportingEventsApp.pdb
+C:\Users\Fatima\source\repos\Jan_SportingEventsApp\obj\Debug\Jan_SportingEventsApp.Child.resources
